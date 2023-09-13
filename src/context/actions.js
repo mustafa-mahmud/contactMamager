@@ -1,0 +1,9 @@
+export const DELETE_CONTACT = 'DELETE_CONTACT';
+export const ADD_CONTACT = 'ADD_CONTACT';
+export const GET_CONTACTS = 'GET_CONTACTS';
+export const GET_SINGLE_CONTACT = 'GET_SINGLE_CONTACT';
+export const EDIT_CONTACT = 'EDIT_CONTACT';
+export const SHOW_ALERT = 'SHOW_ALERT';
+export const HIDE_ALERT = 'HIDE_ALERT';
+export const SHOW_FORM_ALERT = 'SHOW_FORM_ALERT';
+export const HIDE_FORM_ALERT = 'HIDE_FORM_ALERT';
